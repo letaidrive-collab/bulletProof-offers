@@ -1,6 +1,6 @@
 # BulletProof Systems — The Four $297 Offers
 
-Internal build repo for FastFwd Future. Seven pillars, packaged as **four offers at $297/mo each**.
+Internal build repo for FastFwd Future. **Prices, offers and rules: see `SOURCE-OF-TRUTH.md` — it wins.** Seven pillars, packaged as **four offers at $297/mo each**.
 All four bought separately = $1,188/mo. **Full System bundle = $1,000/mo** (saves $188/mo).
 
 The order matters. It's the *bucket with holes* idea: seal the leaks first (Offers 1–3), then pour in paid traffic (Offer 4). Ads into a leaky bucket waste the client's money and make us look bad.
