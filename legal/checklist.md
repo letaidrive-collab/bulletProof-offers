@@ -2,6 +2,8 @@
 
 **Checklist, not legal advice. The attorney reviews before launch.** Sign-off is tracked at the bottom and never assumed.
 
+> **Master doc for the attorney:** https://claude.ai/artifact/5mwD7Rb85wFWfzAZPVskRk. This file maps those rules to the four offers. Before it goes to the attorney, that doc still needs (1) pricing changed from $99/$199 + $399 setup to 4 × $297 / $1,000 bundle, and (2) items for reactivation texts to old lists, Closer's Coach recordings of sales consultations, and paid ads.
+
 ## By offer
 | Gate | 1 Front Door | 2 Front Desk | 3 Revive & Review | 4 Fill the Bucket |
 |---|:-:|:-:|:-:|:-:|

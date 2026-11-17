@@ -1,0 +1,21 @@
+item,unit,rate_usd,type,source
+Votel Founders plan,month,299,fixed,Votel billing page (Nov 17 2026)
+Claude,month,20,fixed,Votel route doc
+Included assistant credits,400 credits/month,0,included,Founders plan
+Assistant credit past included,credit,0.25,metered,Founders plan
+Phone number,number/month,1.00,per location,Votel usage line (number list shows $2 - confirm)
+10DLC campaign,month,1.50,per location,Votel billing
+10DLC brand,one-time,4.50,per location setup,Votel billing
+10DLC campaign review,one-time,15.00,per location setup,Votel billing
+SMS,message,0.008,metered,Votel billing
+Email,message,0.0067,metered,Votel billing
+Chat agent message,message,0.001,metered,"plus model tokens (~$0.003/msg all in, assumed)"
+Voice all-in,minute,0.065,metered,"$0.06-0.07; separate product, minute cap; never in client copy"
+Workflow run,run,0.001,metered,Votel help docs
+Weekly report,run,0.125,metered,"MEASURED: 0.5 credits/run on Nov 17 test"
+Social post with image,post,0.75,metered,"ASSUMED 3 credits - not measured yet"
+Media credit,credit,0.25,metered,Votel billing
+Local Falcon heatmap 5x5,scan,1.25,metered,localfalcon.com/pricing
+Local Falcon heatmap 7x7,scan,2.45,metered,localfalcon.com/pricing
+BrightLocal citation,citation,2.00-3.20,per location setup,"brightlocal.com/pricing; ~20 core = $40-64"
+Card processing,charge,2.9% + 0.30,per invoice,assumed Stripe standard

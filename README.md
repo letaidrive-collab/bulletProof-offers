@@ -30,6 +30,14 @@ scripts/       lint-language.sh: blocks banned words in copy/
 TODO.md        open items that need Todd or the attorney
 ```
 
+## How it's built in Votel
+The Votel build route (stack, measured rates, snapshot steps) lives in the **Votel capability map** doc: https://claude.ai/artifact/LioVPMXj9rgn7Wz7P4FbDv
+- One master snapshot holds every offer's pieces with all workflows **off**. A purchase turns on only that offer's workflows (tag `offer-1` … `offer-4`).
+- One Votel plan per offer ($297 each) plus a Full System plan ($1,000), all linked to the same master snapshot.
+- LeadSnap is out: heatmaps come from Local Falcon (pay as you go), citations from BrightLocal (one-time, paid from setup), Google profile edits by hand at onboarding.
+- Fixed cost ≈ $319/mo (Votel $299 + Claude $20) → 2 paying offers cover it.
+- Rates: `ops/votel-rates.csv`. Legal master: the attorney checklist doc https://claude.ai/artifact/5mwD7Rb85wFWfzAZPVskRk
+
 ## Non-negotiables (from the build brief)
 - One sub-account per location: `{BusinessName} — {Town}`. Agency owns everything; clients never log in.
 - Automations stay **OFF** until the end-to-end test passes on Todd's number (`ops/end-to-end-test.md`).
