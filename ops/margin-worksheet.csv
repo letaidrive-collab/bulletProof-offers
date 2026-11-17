@@ -4,3 +4,4 @@ Front Desk,297,,0.25,,,,,=C3*D3+E3*F3+G3+H3,=B3-I3,voice answering not included
 Revive & Review,297,,0.25,,,,,=C4*D4+E4*F4+G4+H4,=B4-I4,cost per reactivation run varies with list size
 Fill the Bucket,297,,0.25,,,,,=C5*D5+E5*F5+G5+H5,=B5-I5,ad spend paid by client directly - not our cost
 Heatmaps (as scheduled),0,,,,,,,,,$2-$6 each; monthly or on request only
+Full System (bundle),1000,,0.25,,,,,,,all four offers; check bundle margin = 1000 - sum of four offer costs

@@ -12,7 +12,7 @@ Your past customers and old leads are already worth money. We reach back out to 
 ## Fill the Bucket: $297/mo + your ad budget
 Once your follow-up is airtight, we run ads that bring in new leads, and every one gets an instant reply. Your ad budget is billed straight to your own card. Available after Front Door and Front Desk are live.
 
-## The Full System: all four for $1,188/mo
+## The Full System: all four for $1,000/mo (save $188 a month vs. buying separately)
 
 ---
 *Texting turns on once carrier registration clears.*
