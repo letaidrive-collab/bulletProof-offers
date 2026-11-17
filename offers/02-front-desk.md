@@ -29,4 +29,5 @@ Call and hang up → text-back arrives → ask an FAQ → book → reschedule �
 
 ## Metered costs
 Credits/mo: ___ · SMS: ___ · Number: ___ · Recording storage/transcription: ___
-**Voice answering is NOT in this offer.** If added, it's a separate metered product with a minute cap (internal). Client copy never mentions minutes.
+**Voice answering: pending decision on the Source of Truth.** Proposal: included, minutes never mentioned, internal fair-use ceiling 1,000 min/location/month with an alert to Todd at 750.
+**No usage billing to clients.** Flat $297; no overage markup (Todd, Nov 17).
